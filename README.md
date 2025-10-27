@@ -1,5 +1,14 @@
-# 💫 About Me:
-I’m currently working on an Industrial Copilot an LLM-powered dashboard that provides real-time visualization of production insights and key performance indicators (KPIs).<br><br>- I’m currently looking to collaborate on three open-source projects: one focused on **Nix for DevOps**, where I want to advance CI/CD configuration automation and reproducible infrastructure; another centered around **a single programming language**, where I can contribute to its ecosystem and tooling; and a third exploring **augmented human capabilities through AI**, aiming to understand how we can meaningfully and ethically integrate artificial intelligence into everyday human life.<br><br>- Right now, I’m learning **C++** and **Go**, and always open to connecting with people interested in **system architectures** and **AI-driven automation**.<br><br>- Fun fact: I’m an upcoming **Nix chad**
+# 👋 Hey, I’m **Elhaiba Hamza**
+
+I build things where **AI meets systems**.  
+Right now, I’m crafting **Industrial Copilot**: an LLM-powered dashboard that visualizes real-time production insights and KPIs, helping humans and machines understand factories together. 🏭🤖
+
+But my curiosity doesn’t stop there:  
+I aim to contribute to **Nix for DevOps**, helping make *CI/CD fully declarative* so anyone can define their environment and deploy it globally using just **Nix**. I’m also passionate about **augmented human capabilities through AI**, finding ways to ethically enhance human creativity and intelligence. 🧠✨
+
+One of my dreams is to contribute to **LibrePhone** alongside the *GNU chads*, building an open, privacy-first mobile ecosystem 📱🌍.
+
+Currently leveling up in **C++** and **Go**, while geeking out on *system architectures* and *AI-driven automation*.
 
 
 ## 🌐 Socials:
