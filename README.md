@@ -1,12 +1,5 @@
 # Hey, I’m **Elhaiba Hamza**
 
-I build things where **AI meets systems**.  
-Right now, I’m crafting an **Industrial Copilot**: an LLM-powered dashboard that visualizes real-time production insights and KPIs, helping humans and machines understand factories together.
-
-But my curiosity doesn’t stop there:  
-I aim to contribute to **Nix for DevOps**, helping make *CI/CD fully declarative* so anyone can define their environment and deploy it globally using just **Nix**. I’m also passionate about **augmented human capabilities through AI**, finding ways to ethically enhance human creativity and intelligence.
-
-One of my dreams is to contribute to **LibrePhone** alongside the *GNU chads*, building an open, privacy-first mobile ecosystem 📱🌍.
 
 Currently leveling up in **C++** and **Go**, while geeking out on *system architectures* and *AI-driven automation*.
 
