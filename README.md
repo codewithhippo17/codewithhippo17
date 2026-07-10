@@ -1,7 +1,7 @@
 # Hey, I’m **Elhaiba Hamza**
 
 
-Currently leveling up in **C++** and **Go**, while geeking out on *system architectures* and *AI-driven automation*.
+Currently leveling up in **C++** and **Go**, while geeking out on *system architectures* and *AI-driven applications*.
 
 
 ## 🌐 Socials:
